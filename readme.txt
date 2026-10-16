@@ -5,3 +5,4 @@ jan-devv - Introduction and Git setup
    - Literature Review: Done
    - Methodology: Done
    - Results and Conclusion: In progress
+Edited by jan-devv
